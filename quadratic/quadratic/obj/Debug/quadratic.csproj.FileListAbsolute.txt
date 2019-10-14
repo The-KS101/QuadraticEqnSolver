@@ -1,0 +1,6 @@
+c:\users\ks101\documents\visual studio 2015\Projects\quadratic\quadratic\bin\Debug\quadratic.exe.config
+c:\users\ks101\documents\visual studio 2015\Projects\quadratic\quadratic\obj\Debug\quadratic.csprojResolveAssemblyReference.cache
+c:\users\ks101\documents\visual studio 2015\Projects\quadratic\quadratic\bin\Debug\quadratic.exe
+c:\users\ks101\documents\visual studio 2015\Projects\quadratic\quadratic\bin\Debug\quadratic.pdb
+c:\users\ks101\documents\visual studio 2015\Projects\quadratic\quadratic\obj\Debug\quadratic.exe
+c:\users\ks101\documents\visual studio 2015\Projects\quadratic\quadratic\obj\Debug\quadratic.pdb
